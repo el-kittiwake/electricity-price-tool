@@ -4,7 +4,7 @@
 # Updated 30th Sept to reflect 15 minute prices starting Oct 1st.
 # Spotprice + marginal is what we pay. Price is good when less than contract price.
 # Sept 30 2025: https://hehkuenergia.fi/ekoenergia/
-# MARGINAL=0.69
+# MARGINAL=0.99
 # KK12=8.49 #(7.8)
 # KK24=8.19 #(7.5)
 
